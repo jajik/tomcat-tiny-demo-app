@@ -1,4 +1,3 @@
-**/*.java
 **/*.war
 **/.vscode
-**/*.class
+**/classes
